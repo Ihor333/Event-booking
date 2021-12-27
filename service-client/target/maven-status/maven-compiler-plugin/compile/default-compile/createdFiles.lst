@@ -1,0 +1,6 @@
+com\events\serviceclient\repo\ClientRepository.class
+com\events\serviceclient\ServiceClientApplication.class
+com\events\serviceclient\api\dto\OrderDto.class
+com\events\serviceclient\service\ClientService.class
+com\events\serviceclient\model\Client.class
+com\events\serviceclient\api\ClientController.class
